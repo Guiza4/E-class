@@ -14,4 +14,4 @@ ply==3.11
 pytz==2018.9
 urllib3==1.24.1
 virtualenv==16.4.3
-Werkzeug==0.15.1
+Werkzeug==0.15.3
